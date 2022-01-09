@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="220 140 854 319" width="634px" height="179px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <rect width="102" height="20" x="737" y="155" style="fill:#007;stroke:black;"/>
+   <text width="102" height="20" x="742" y="169" style="fill:#fff;" font-family="Arial" font-size="16px"> barang</text>
+   <rect width="102" height="20" x="737" y="175" style="fill:#aea;stroke:black;"/>
+   <text width="102" height="20" x="742" y="189" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="102" height="20" x="737" y="195" style="fill:none;stroke:black;"/>
+   <text width="102" height="20" x="742" y="209" style="fill:black;" font-family="Arial" font-size="16px">namaBarang</text>
+   <rect width="102" height="20" x="737" y="215" style="fill:none;stroke:black;"/>
+   <text width="102" height="20" x="742" y="229" style="fill:black;" font-family="Arial" font-size="16px">merk</text>
+   <rect width="102" height="20" x="737" y="235" style="fill:none;stroke:black;"/>
+   <text width="102" height="20" x="742" y="249" style="fill:black;" font-family="Arial" font-size="16px">stok</text>
+   <rect width="102" height="20" x="737" y="255" style="fill:none;stroke:black;"/>
+   <text width="102" height="20" x="742" y="269" style="fill:black;" font-family="Arial" font-size="16px">kategori</text>
+   <rect width="102" height="20" x="737" y="275" style="fill:none;stroke:black;"/>
+   <text width="102" height="20" x="742" y="289" style="fill:black;" font-family="Arial" font-size="16px">jumlah</text>
+   <rect width="127" height="20" x="487" y="164" style="fill:#007;stroke:black;"/>
+   <text width="127" height="20" x="492" y="178" style="fill:#fff;" font-family="Arial" font-size="16px"> konsumen</text>
+   <rect width="127" height="20" x="487" y="184" style="fill:#aea;stroke:black;"/>
+   <text width="127" height="20" x="492" y="198" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="127" height="20" x="487" y="204" style="fill:none;stroke:black;"/>
+   <text width="127" height="20" x="492" y="218" style="fill:black;" font-family="Arial" font-size="16px">namaKonsumen</text>
+   <rect width="127" height="20" x="487" y="224" style="fill:none;stroke:black;"/>
+   <text width="127" height="20" x="492" y="238" style="fill:black;" font-family="Arial" font-size="16px">alamat</text>
+   <rect width="127" height="20" x="487" y="244" style="fill:none;stroke:black;"/>
+   <text width="127" height="20" x="492" y="258" style="fill:black;" font-family="Arial" font-size="16px">namaPegawai</text>
+   <rect width="127" height="20" x="487" y="264" style="fill:none;stroke:black;"/>
+   <text width="127" height="20" x="492" y="278" style="fill:black;" font-family="Arial" font-size="16px">tanggal</text>
+   <rect width="127" height="20" x="487" y="284" style="fill:none;stroke:black;"/>
+   <text width="127" height="20" x="492" y="298" style="fill:black;" font-family="Arial" font-size="16px">amount</text>
+   <rect width="127" height="20" x="235" y="164" style="fill:#007;stroke:black;"/>
+   <text width="127" height="20" x="240" y="178" style="fill:#fff;" font-family="Arial" font-size="16px"> pesan</text>
+   <rect width="127" height="20" x="235" y="184" style="fill:#aea;stroke:black;"/>
+   <text width="127" height="20" x="240" y="198" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="127" height="20" x="235" y="204" style="fill:none;stroke:black;"/>
+   <text width="127" height="20" x="240" y="218" style="fill:black;" font-family="Arial" font-size="16px">namaKonsumen</text>
+   <rect width="127" height="20" x="235" y="224" style="fill:none;stroke:black;"/>
+   <text width="127" height="20" x="240" y="238" style="fill:black;" font-family="Arial" font-size="16px">tanggal</text>
+   <rect width="127" height="20" x="235" y="244" style="fill:none;stroke:black;"/>
+   <text width="127" height="20" x="240" y="258" style="fill:black;" font-family="Arial" font-size="16px">nomer</text>
+   <rect width="127" height="20" x="235" y="264" style="fill:none;stroke:black;"/>
+   <text width="127" height="20" x="240" y="278" style="fill:black;" font-family="Arial" font-size="16px">jumlahPesan</text>
+   <rect width="127" height="20" x="235" y="284" style="fill:none;stroke:black;"/>
+   <text width="127" height="20" x="240" y="298" style="fill:black;" font-family="Arial" font-size="16px">status</text>
+</svg>
